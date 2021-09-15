@@ -221,7 +221,7 @@ i.fas.fa-cart-plus,
     display: none;
 }
 
-@media only screen and (max-width: 1460px) {
+@media only screen and (max-width: 1260px) {
     #all-products {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
